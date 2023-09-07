@@ -86,7 +86,8 @@ MySQL
 ![Alt Text](https://github.com/guruprasad26gp/dlithe/blob/main/icons8-mysql-logo.svg)
 
 
-Node.js
+Node.js  
+
 ![Alt Text](https://github.com/guruprasad26gp/dlithe/blob/main/icons8-nodejs.svg)
 
 
