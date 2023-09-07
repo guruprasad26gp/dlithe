@@ -5,16 +5,43 @@ A web application for creating professional resumes effortlessly. Users can inpu
 
 
 
+
 ## Table of Contents
 
 To deploy this project run
+- Logo
+- Roadmap
 - Features
+- Screenshots
 - Demo
 - Installation
-- Usage
-- Technologies
+- Software Requirements
 - Contributing
 - License
+- Profile
+
+
+
+
+
+
+
+
+# Logo
+
+  
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+
 
 
 
@@ -25,6 +52,19 @@ To deploy this project run
 - Resume Generation: Generate and download a PDF or Word document of your resume.
 - User Accounts: Save and edit your resume for future updates.
 - Responsive Design: Works seamlessly on various devices and screen sizes.
+- single page application.
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/guruprasad26gp/dlithe/blob/main/resume-application-employment-form-concept.jpg)
+
+
+![App Screenshot](https://github.com/guruprasad26gp/dlithe/blob/main/workspace-workplace-office-table.jpg)
+
+
 
 ## Demo
 
@@ -32,23 +72,27 @@ To deploy this project run
 
 
 
+
 ## Installation
 
 Install my-project with npm
+```bash
+cd path/to/my-project
+npm start
+```
 
-abx
-
-![Alt Text]()
-abx
+MySQL
 
 ![Alt Text](https://github.com/guruprasad26gp/dlithe/blob/main/icons8-mysql-logo.svg)
 
-abx
 
-![Alt Text](URL_to_svg)
+Node.js
+![Alt Text](https://github.com/guruprasad26gp/dlithe/blob/main/icons8-nodejs.svg)
 
 
-## Tech Stack
+
+
+## Software Requirements
 
 **Frontend:** React.js   
 **Backend:** Node.js, Express.js  
@@ -57,29 +101,6 @@ abx
 **Deployment:** (mention where and how the project is deployed, e.g., Heroku, Netlify)
 
 
-## Usage/Examples
-
-```javascript
-// Import the necessary components
-import ResumeMaker from 'resume-maker';
-
-// Initialize the application
-const resumeApp = new ResumeMaker();
-
-// Register or log in to your account
-resumeApp.registerOrLogin();
-
-// Fill in your resume details
-resumeApp.fillResumeDetails();
-
-// Choose a template
-const selectedTemplate = resumeApp.chooseTemplate();
-
-// Generate the resume
-resumeApp.generateResume(selectedTemplate);
-
-// Download your resume in PDF or Word format
-resumeApp.downloadResume();
 
 ## Contributing
 
@@ -90,3 +111,24 @@ We welcome contributions from the community. To contribute, please follow these 
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your branch to your fork.
 5. Create a pull request to the main repository.
+
+
+## License
+
+[TEAM GMG](https://choosealicense.com/licenses/mit/)
+
+
+## 🔗 Profile Links
+
+
+[![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
