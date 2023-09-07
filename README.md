@@ -123,7 +123,7 @@ We welcome contributions from the community. To contribute, please follow these 
 ## 🔗 Profile Links
 
 
-[![Gururaj](gururaj333.netlify.app)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](gururaj333.netlify.app)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
